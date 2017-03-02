@@ -5,18 +5,18 @@ header-img: img/home-bg.jpg
 email: schuming89@gmail.com
 description: ""
 keyword: ""
-url: "http://schuming.me"              # your host, for absolute URL
-baseurl: "/schuming-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+# url: "http://schuming.me"              # your host, for absolute URL
+# baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
-# SNS settings
-RSS: false
-weibo_username:     schuming
-zhihu_username:     schuming
-github_username:    schuming
-#twitter_username:  schuming
-facebook_username:  schuming
+# # SNS settings
+# RSS: false
+# weibo_username:     schuming
+# zhihu_username:     schuming
+# github_username:    schuming
+# #twitter_username:  schuming
+# facebook_username:  schuming
 
 
 
@@ -50,10 +50,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+# duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -69,7 +68,7 @@ ga_domain: schuming.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "举目之处，有千般美妙，有千般美妙"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-sc.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
