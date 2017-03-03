@@ -6,7 +6,7 @@ email: schuming89@gmail.com
 description: ""
 keyword: ""
 url: "http://schuming.me"              # your host, for absolute URL
-baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/schumingblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
