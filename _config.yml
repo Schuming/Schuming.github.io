@@ -1,6 +1,6 @@
 # Site settings
 title: Schuming
-SEOTitle: 受·想·行·识 
+SEOTitle: 害·想·咋·地 
 header-img: img/home-bg.jpg
 email: schuming89@gmail.com
 description: ""
@@ -10,13 +10,13 @@ baseurl: "/schumingblog-boilerplate"         # for example, '/blog' if your blog
 
 
 
-# SNS settings
-RSS: false
-weibo_username:     schuming
-zhihu_username:     schuming
-github_username:    schuming
-#twitter_username:  schuming
-facebook_username:  schuming
+# # SNS settings
+# RSS: false
+# weibo_username:     schuming
+# zhihu_username:     schuming
+# github_username:    schuming
+# #twitter_username:  schuming
+# facebook_username:  schuming
 
 
 
@@ -67,7 +67,7 @@ ga_domain: schuming.me
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+# sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "举目之处，有千般美妙，有千般美妙"
 # sidebar-avatar: /img/avatar-schuming.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -80,21 +80,21 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
-    {
-        title: "Schuming Blog",
-        href: "http://schuming.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
-    }
-]
+# friends: [
+#     {
+#         title: "Schuming Blog",
+#         href: "http://schuming.me"
+#     },{
+#         title: "Foo",
+#         href: "#"
+#     },{
+#         title: "Bar",
+#         href: "#"
+#     },{
+#         title: "Example Friends",
+#         href: "#"
+#     },{
+#         title: "It helps SEO",
+#         href: "#"
+#     }
+# ]
